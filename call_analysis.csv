@@ -1,0 +1,16 @@
+Transcript,Summary,Sentiment
+"Customer: Hi, I’m having trouble with my internet connection. It keeps dropping every 10 minutes.
+Agent: I’m sorry to hear that. Can you tell me when this started happening?
+Customer: It started yesterday after the storm.
+Agent: Thank you. Let me run a quick check on your line.
+Customer: Okay.
+Agent: I see some instability in the connection. I’ll schedule a technician to visit tomorrow.
+Customer: That would be great, thank you.
+Agent: You’re welcome. Is there anything else I can help you with?
+Customer: No, that’s all.
+Agent: Have a great day!
+","###   
+The customer reported intermittent internet disconnections that began after a storm. The agent diagnosed line instability and scheduled a technician visit for the next day, which the customer appreciated. The interaction concluded courteously with no further issues.  
+
+###","**Positive**  
+*(The customer expressed gratitude, the agent resolved the issue efficiently, and the exchange ended amicably.)*"
